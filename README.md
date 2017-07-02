@@ -21,3 +21,6 @@ links:
 ### Essential Components of Web Accessibility Slides
 
 Go to previous slide
+Go to next slide
+Go to contents list
+Toggle through six choices of font size and font/background color
