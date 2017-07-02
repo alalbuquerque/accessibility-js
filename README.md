@@ -7,7 +7,7 @@ You do not need to use links only to link external pages. Use internal anchors!
 ## onmouseover and onmousedown
 don't works 
 
-##Use tabindex in HTML
+## Use tabindex in HTML
 Good practices tabindex
 
 links:
@@ -16,3 +16,8 @@ links:
 
 ## Aria-roles 
 
+## Essential Components of Web Accessibility
+
+### Essential Components of Web Accessibility Slides
+
+Go to previous slide
